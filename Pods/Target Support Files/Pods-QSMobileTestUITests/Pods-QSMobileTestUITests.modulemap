@@ -1,0 +1,6 @@
+framework module Pods_QSMobileTestUITests {
+  umbrella header "Pods-QSMobileTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
